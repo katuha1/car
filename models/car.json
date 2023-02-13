@@ -1,16 +1,22 @@
 [
     {
         "id": 1,
-        "name": "logan",
-        "model": "renault",
-        "years": 2018,
-        "price": 6500000
+        "name": "6uiora",
+        "model": "lada",
+        "years": 20674897450465,
+        "price": 850000
     },
     {
         "id": 2,
-        "name": "priora",
+        "name": "jthjtra",
         "model": "lada",
-        "years": 2012,
+        "years": 20674897450465,
+        "price": 850000
+    },
+    {
+        "name": "6uiora",
+        "model": "lada",
+        "years": 20674897450465,
         "price": 850000
     }
 ]
